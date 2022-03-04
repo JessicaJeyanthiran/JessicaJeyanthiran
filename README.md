@@ -6,6 +6,13 @@ My background in Health Administration has allowed me to recognize my ambition t
 
 > "It's not faith in technology, it's faith in people."
 
+### ❓ How to Reach Me
+
+📧 jeyanthiran.jessica@gmail.com </br>
+
+💙 https://www.linkedin.com/in/jessicajeyanthiran/ 
+
+
 
 
 
