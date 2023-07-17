@@ -1,4 +1,4 @@
-## Hi👋 , I’m 
+ Hi👋 , I’m 
 # Jessica Jeyanthiran! 
 
 I am a full-stack web developer with a certificate earned from the University of Toronto. This coding bootcamp has equipped me with newly developed front end skills in HTML, CSS, Javascript, React.js, and responsive web development, as well as back end technologies such as Node. js, Express.js, MongoDB, MySQL.
